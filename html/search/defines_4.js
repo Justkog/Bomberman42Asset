@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['max_5fbombs',['MAX_BOMBS',['../_character_8hpp.html#ad3e1766beee573ff7fd0798c4db63217',1,'Character.hpp']]],
-  ['max_5fexplosion_5fsize',['MAX_EXPLOSION_SIZE',['../_character_8hpp.html#ac84f62bcbb7eb2f1d075d92721a755ac',1,'Character.hpp']]],
-  ['max_5fspeed',['MAX_SPEED',['../_character_8hpp.html#ac2cd96d53dd3ba6407db6766c3d92b26',1,'Character.hpp']]]
+  ['game_5fdebug',['GAME_DEBUG',['../_game_8hpp.html#a431e33666b0b61d75941892d8a7efb02',1,'Game.hpp']]],
+  ['glew_5fstatic',['GLEW_STATIC',['../_core_8hpp.html#abcde84ea0ef5f934384e4620f092c85a',1,'Core.hpp']]]
 ];

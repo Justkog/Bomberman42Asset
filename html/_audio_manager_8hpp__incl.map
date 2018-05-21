@@ -1,0 +1,12 @@
+<map id="include/Game/Components/AudioManager.hpp" name="include/Game/Components/AudioManager.hpp">
+<area shape="rect" id="node2" href="$_core_8hpp.html" title="Class d&#39;include pour tout les fichier important au projet, libs... " alt="" coords="2322,385,2431,411"/>
+<area shape="rect" id="node37" href="$_game_8hpp.html" title="Game/Game.hpp" alt="" coords="2232,165,2355,191"/>
+<area shape="rect" id="node38" href="$_component_8hpp.html" title="Component de base. " alt="" coords="2556,165,2778,191"/>
+<area shape="rect" id="node42" href="$_i_start_8hpp.html" title="Interface pour indiquer qu&#39;on peu initialiser le component. " alt="" coords="2808,312,2992,337"/>
+<area shape="rect" id="node43" href="$_audio_source_8hpp.html" title="class d&#39;emission audio " alt="" coords="3200,92,3395,117"/>
+<area shape="rect" id="node49" href="$_audio_clip_8hpp.html" title="Fichier audio. " alt="" coords="3719,92,3894,117"/>
+<area shape="rect" id="node50" href="$_settings_8hpp.html" title="Chargeur / Enregistreur des settings. " alt="" coords="2559,92,2774,117"/>
+<area shape="rect" id="node40" href="$_json_serializable_8hpp.html" title="Classes gérant la sérialisation. " alt="" coords="2517,312,2726,337"/>
+<area shape="rect" id="node41" href="$_game_object_8hpp.html" title="Entiter du projet. " alt="" coords="2685,239,2840,264"/>
+<area shape="rect" id="node48" href="$_i_update_8hpp.html" title="Interface pour indiquer qu&#39;on peu mettre a jour le component. " alt="" coords="3361,165,3560,191"/>
+</map>

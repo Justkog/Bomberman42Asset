@@ -1,0 +1,10 @@
+<map id="Game::Component::AudioManager" name="Game::Component::AudioManager">
+<area shape="rect" id="node2" href="$class_beer_engine_1_1_component_1_1_component.html" title="Component de base, c&#39;est la base de tout autre component. elle permet de regrouper variable et foncti..." alt="" coords="389,1064,557,1324"/>
+<area shape="rect" id="node9" href="$class_beer_engine_1_1_audio_1_1_audio_source.html" title="classe permettent l&#39;emission d&#39;un AudioClip " alt="" coords="211,1373,351,1593"/>
+<area shape="rect" id="node3" href="$class_beer_engine_1_1_json_serializable.html" title="Classe de base gérant la sérialisation et désérialisation des classes qui en héritent. " alt="" coords="318,5,513,212"/>
+<area shape="rect" id="node5" href="$class_beer_engine_1_1_game_object.html" title="classe representant les entiter du projet, cela regroupe les fonctionnalitée de l&#39;entité par le biais..." alt="" coords="386,636,560,1003"/>
+<area shape="rect" id="node6" href="$class_beer_engine_1_1_transform.html" title="classe representant la transformation d&#39;un object, position, rotation... " alt="" coords="416,261,575,575"/>
+<area shape="rect" id="node7" href="$class_beer_engine_1_1_a_scene.html" title="classe des scenes, toute scene herite de celle&#45;ci pour le fonctionnement correct des scenes..." alt="" coords="671,315,816,521"/>
+<area shape="rect" id="node8" href="$class_beer_engine_1_1_component_1_1_i_start.html" title="Interface avec la fonctionnalité d&#39;initialiser le component. " alt="" coords="5,1151,173,1237"/>
+<area shape="rect" id="node10" href="$class_beer_engine_1_1_component_1_1_i_update.html" title="Interface avec les fonctionnalités pour effectuer les updates. " alt="" coords="197,1144,365,1244"/>
+</map>

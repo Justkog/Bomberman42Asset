@@ -1,0 +1,7 @@
+<map id="include/Game/SceneLoader.hpp" name="include/Game/SceneLoader.hpp">
+<area shape="rect" id="node2" href="$_adventure_continue_menu_8hpp.html" title="include/Game/Components\l/AdventureContinueMenu.hpp" alt="" coords="5,79,204,117"/>
+<area shape="rect" id="node3" href="$_adventure_menu_8hpp.html" title="include/Game/Components\l/AdventureMenu.hpp" alt="" coords="228,79,411,117"/>
+<area shape="rect" id="node4" href="$_game_over_menu_8hpp.html" title="Menu affiché en cas de Game Over. " alt="" coords="434,79,617,117"/>
+<area shape="rect" id="node5" href="$_in_game_menu_8hpp.html" title="Menu affiché en cours de partie. " alt="" coords="641,79,824,117"/>
+<area shape="rect" id="node6" href="$_victory_menu_8hpp.html" title="Affichage du menu de victoire. " alt="" coords="848,79,1031,117"/>
+</map>
